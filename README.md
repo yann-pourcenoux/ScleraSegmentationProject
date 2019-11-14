@@ -17,7 +17,9 @@ In the codes section not only the codes for the model can be found but also the 
 
 Data from 100 people have been gathered with multiple camera and with subjects looking at different orientations in several lighting conditions. 
 
-![Different Orientations](https://github.com/En3rg1/ScleraSegmentationProject/tree/master/figures/orientations.png)
+![Different Orientations](https://github.com/En3rg1/ScleraSegmentationProject/blob/master/figures/orientations.png)
+
+![Different cameras](https://github.com/En3rg1/ScleraSegmentationProject/blob/master/figures/cameras.png)
 
 ### Model
 
@@ -27,7 +29,7 @@ The final models reaches an IoU around 90% on the training dataset.
 
 The predictions are quite good on the data collected for the project but it struggles in some cases, mainly in low-lighting conditions.
 
-[Predictions](https://github.com/En3rg1/ScleraSegmentationProject/tree/master/figures/predictions.png)
+![Predictions](https://github.com/En3rg1/ScleraSegmentationProject/blob/master/figures/predictions.png)
 
 ## Future work
 The code would need to be updated since the framework tensorflow.keras in tensorflow 2.0 is more efficient.
