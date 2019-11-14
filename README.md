@@ -11,13 +11,13 @@ To run this codes, you will need the common python librairies as well as [Keras]
 ## Project
 
 The goal was to be able to isolate the sclera area from pictures wherever the person is looking at, and achieving the best accuracy whatever the camera used.
+In the codes section not only the codes for the model can be found but also the codes for loading and visualizing both the data and the predictions of the model.
 
 ### Data collection
 
 Data from 100 people have been gathered with multiple camera and with subjects looking at different orientations in several lighting conditions. 
 
-![alt text](https://github.com/En3rg1/ScleraSegmentationProject/tree/master/figures/orientations.png)
-[alt text](https://github.com/En3rg1/ScleraSegmentationProject/tree/master/figures/cameras.png)
+![Different Orientations](https://github.com/En3rg1/ScleraSegmentationProject/tree/master/figures/orientations.png)
 
 ### Model
 
